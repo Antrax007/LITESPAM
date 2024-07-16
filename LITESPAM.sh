@@ -1,4 +1,4 @@
-#!/system/xbin/bash
+6c0454f469294561134214e95a6786476e7e2c15#!/system/xbin/bash
 clear
 git clone https://github.com/amsitlab/smsid-java.git
 cd ./smsid-java
